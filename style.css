@@ -1,0 +1,29 @@
+
+body{
+    background-color: darkcyan;
+}
+
+
+form .cu{
+    
+    border: 2px solid blue;
+}
+a{
+    border-radius: 20%;
+    background-color: orange;
+    color: purple;
+    font-size: 25px;
+}
+form label{
+    margin-top: 10px;
+}
+fieldset{
+    border-radius: 20px;
+    background-image:url(https://i.pinimg.com/564x/40/18/e3/4018e32b3fbba7c01b9c7c0f09da086c.jpg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 50% 109%;
+    background-color: darkgray;
+
+    
+}
